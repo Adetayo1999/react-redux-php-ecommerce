@@ -24,3 +24,8 @@ a:hover{
 ul{
   list-style:none;
 }
+
+.spinner-display {
+  margin-top: 300px;
+  margin-left: 45%;
+}
