@@ -1,0 +1,52 @@
+{
+    "products":[
+        {
+            "id":1,
+            "image":"/images/dress1.jpg",
+            "title":"Some Fashion",
+            "description":"Some Description About The Particular Fashion",
+             "availableSizes":["X" , "L" , "XL" , "XXL"],
+             "price":12.9
+        },
+        {
+            "id":2,
+            "image":"/images/dress2.jpg",
+            "title":"Some Fashion For Dress 2",
+            "description":"Some Description About The Particular Fashion",
+             "availableSizes":["X" , "L" , "XL" , "XXL"],
+             "price":29.9
+        },
+        {
+            "id":3,
+            "image":"/images/dress3.jpg",
+            "title":"Some Fashion For Dress 3",
+            "description":"Some Description About The Particular Fashion",
+             "availableSizes":["X" , "L" , "XL" , "XXL"],
+             "price":67.9
+        },
+        {
+            "id":4,
+            "image":"/images/dress4.jpg",
+            "title":"Some Fashion",
+            "description":"Some Description About The Particular Fashion",
+             "availableSizes":["X" , "L" , "XL" , "XXL"],
+             "price":45.9
+        },
+        {
+            "id":5,
+            "image":"/images/dress5.jpg",
+            "title":"Some Fashion",
+            "description":"Some Description About The Particular Fashion",
+             "availableSizes":["X" , "L" , "XL" , "XXL" , "XS"],
+             "price":15.9
+        },
+        {
+            "id":6,
+            "image":"/images/dress6.jpg",
+            "title":"Some Fashion",
+            "description":"Some Description About The Particular Fashion",
+             "availableSizes":["X" , "L" , "XL" , "XXL" , "XS"],
+             "price":19.9
+        }
+    ]
+}
